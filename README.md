@@ -16,7 +16,7 @@
 3. **Virtualenv (facultatif) :** Pour isoler les dépendances de ce projet, il est recommandé d'utiliser un environnement virtuel. Vous pouvez l'installer via pip :
 
 
-4. **Clonage du projet :** Clonez ce projet depuis GitHub en utilisant la commande suivante :``git clone https://github.com/sosthene14/auto_respons_facebook_comments``
+4. **Clonage du projet :** Clonez ce projet depuis GitHub en utilisant la commande suivante :``git clone [https://github.com/sosthene14/auto_respons_facebook_comments](https://github.com/sosthene14/bot_facebook_comments)``
 
 5. **Install requirements :** ``pip install -r requirements.txt``
 
